@@ -1,0 +1,15 @@
+<div class="extended-weather">
+    <h1 class="selected-location">{{location}}</h1>
+    <ul ng-repeat="day in weather">
+        <li class="weather-day">
+            <h2 class="weather-date">{{day.date}}</h2>
+            <div class="weather-state">
+                <span class="weather-description">{{day.weatherDescription}}</span>
+                <span class="weather-temperature-low">{{day.maxTemp}}</span>
+                <span class="weather-temperature-high">{{day.minTemp}}</span>
+            </div>
+        </li>
+    </ul>
+
+</div>
+

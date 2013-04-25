@@ -3,15 +3,20 @@
 /* Controllers */
 
 
-angular.module('Weather.controllers', []).
-    controller('CurrentWeatherController', ['$scope', 'WeatherDataTransformService', function($scope, WeatherDataTransformService) {
-
-        console.log(this);
+angular.module('Weather.controllers', [])
+    .controller('CurrentWeatherController', ['$scope', 'WeatherDataTransformService', function($scope, WeatherDataTransformService) {
 
         WeatherDataTransformService({}, function(data){
-           $scope.location = data.location;
+           jQuery.extend($scope, data);
         });
 
 
+
+    }])
+    .controller('ExtendedWeatherController', ['$scope', 'WeatherDataTransformService', function($scope, WeatherDataTransformService) {
+
+        WeatherDataTransformService({}, function(data){
+            jQuery.extend($scope, data);
+        });
 
     }]);

@@ -2,25 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1499d06-f5cc-40d6-b0cc-e75036c09fd8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/js/vendor/angular-resource.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/partials/current-weather.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/partials/extended-weather.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/partials/one-day-weather.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/js/app.js" afterPath="$PROJECT_DIR$/app/js/app.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/js/controllers.js" afterPath="$PROJECT_DIR$/app/js/controllers.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/partials/extended-weather.html" afterPath="$PROJECT_DIR$/app/partials/extended-weather.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/index.html" afterPath="$PROJECT_DIR$/app/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/js/services.js" afterPath="$PROJECT_DIR$/app/js/services.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/json/testWeather.json" afterPath="$PROJECT_DIR$/app/json/testWeather.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Weather.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="a1499d06-f5cc-40d6-b0cc-e75036c09fd8" time="1366851121177" ignored="false" />
-    <file path="/index.html" changelist="a1499d06-f5cc-40d6-b0cc-e75036c09fd8" time="1366856639550" ignored="false" />
+    <file path="/Dummy.txt" changelist="a1499d06-f5cc-40d6-b0cc-e75036c09fd8" time="1366930103391" ignored="false" />
+    <file path="/index.html" changelist="a1499d06-f5cc-40d6-b0cc-e75036c09fd8" time="1366932192707" ignored="false" />
     <file path="/app.js" changelist="a1499d06-f5cc-40d6-b0cc-e75036c09fd8" time="1366852576653" ignored="false" />
     <file path="/current-weather.html" changelist="a1499d06-f5cc-40d6-b0cc-e75036c09fd8" time="1366852035641" ignored="false" />
-    <file path="/services.js" changelist="a1499d06-f5cc-40d6-b0cc-e75036c09fd8" time="1366863871446" ignored="false" />
-    <file path="/controllers.js" changelist="a1499d06-f5cc-40d6-b0cc-e75036c09fd8" time="1366863970594" ignored="false" />
+    <file path="/services.js" changelist="a1499d06-f5cc-40d6-b0cc-e75036c09fd8" time="1366932696657" ignored="false" />
+    <file path="/controllers.js" changelist="a1499d06-f5cc-40d6-b0cc-e75036c09fd8" time="1366932491005" ignored="false" />
+    <file path="/extended-weather.html" changelist="a1499d06-f5cc-40d6-b0cc-e75036c09fd8" time="1366932941040" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,19 +38,10 @@
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf>
-          <file leaf-file-name="one-day-weather.html" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/app/partials/one-day-weather.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
           <file leaf-file-name="extended-weather.html" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/app/partials/extended-weather.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+                <state line="4" column="49" selection-start="201" selection-end="201" vertical-scroll-proportion="-2.5">
                   <folding />
                 </state>
               </provider>
@@ -69,19 +56,10 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="filters.js" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/app/js/filters.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="4" column="23" selection-start="53" selection-end="53" vertical-scroll-proportion="0.0">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="controllers.js" pinned="false" current="false" current-in-tab="true">
+          <file leaf-file-name="controllers.js" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/app/js/controllers.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="16" column="68" selection-start="363" selection-end="363" vertical-scroll-proportion="0.26086956">
+                <state line="6" column="133" selection-start="210" selection-end="210" vertical-scroll-proportion="0.140625">
                   <folding />
                 </state>
               </provider>
@@ -90,7 +68,7 @@
           <file leaf-file-name="testWeather.json" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/app/json/testWeather.json">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="137" column="1" selection-start="4501" selection-end="4501" vertical-scroll-proportion="-85.625">
+                <state line="137" column="1" selection-start="4501" selection-end="4501" vertical-scroll-proportion="0.0">
                   <folding />
                 </state>
               </provider>
@@ -112,7 +90,7 @@
           <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/app/js/app.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="11" column="49" selection-start="1038" selection-end="1038" vertical-scroll-proportion="0.0">
+                <state line="10" column="101" selection-start="959" selection-end="984" vertical-scroll-proportion="0.0">
                   <folding />
                 </state>
               </provider>
@@ -121,7 +99,7 @@
           <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/app/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="25" column="23" selection-start="1254" selection-end="1254" vertical-scroll-proportion="-15.625">
+                <state line="26" column="31" selection-start="1327" selection-end="1327" vertical-scroll-proportion="-11.625">
                   <folding />
                 </state>
               </provider>
@@ -130,16 +108,16 @@
           <file leaf-file-name="current-weather.html" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/app/partials/current-weather.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="7" column="10" selection-start="441" selection-end="441" vertical-scroll-proportion="-4.375">
+                <state line="1" column="4" selection-start="38" selection-end="85" vertical-scroll-proportion="-0.625">
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="services.js" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="services.js" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/app/js/services.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="14" column="0" selection-start="358" selection-end="1482" vertical-scroll-proportion="0.22269353">
+                <state line="24" column="21" selection-start="764" selection-end="764" vertical-scroll-proportion="0.2760181">
                   <folding />
                 </state>
               </provider>
@@ -174,17 +152,18 @@
         <option value="$PROJECT_DIR$/app/js/directives.js" />
         <option value="$PROJECT_DIR$/app/js/filters.js" />
         <option value="$PROJECT_DIR$/app/partials/current-weather.html" />
-        <option value="$PROJECT_DIR$/app/index.html" />
         <option value="$PROJECT_DIR$/app/json/testWeather.json" />
         <option value="$PROJECT_DIR$/app/js/app.js" />
-        <option value="$PROJECT_DIR$/app/js/controllers.js" />
+        <option value="$PROJECT_DIR$/app/index.html" />
         <option value="$PROJECT_DIR$/app/js/services.js" />
+        <option value="$PROJECT_DIR$/app/partials/extended-weather.html" />
+        <option value="$PROJECT_DIR$/app/js/controllers.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="width" value="1920" />
-    <option name="height" value="1080" />
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -331,8 +310,8 @@
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="FullScreen" value="true" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -351,7 +330,7 @@
     </configuration>
     <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
       <JSDebuggerConfigurationSettings>
-        <option name="engineId" />
+        <option name="engineId" value="embedded" />
         <option name="fileUrl" />
       </JSDebuggerConfigurationSettings>
       <method />
@@ -398,30 +377,34 @@
       <created>1366851123716</created>
       <updated>1366851123716</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add test json so I don't use all my api hits.">
+      <created>1366864126820</created>
+      <updated>1366864126820</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24986821" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19873485" sideWeight="0.6707317" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19809069" sideWeight="0.6707317" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32999474" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32999474" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -488,37 +471,9 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/css/normalize.css">
+    <entry file="file://$PROJECT_DIR$/app/json/testWeather.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="5" selection-start="402" selection-end="402" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/crossdomain.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="38" selection-start="60" selection-end="60" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/partials/extended-weather.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/js/directives.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="25" selection-start="101" selection-end="101" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/js/filters.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="23" selection-start="53" selection-end="53" vertical-scroll-proportion="0.0">
+        <state line="137" column="1" selection-start="4501" selection-end="4501" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -530,37 +485,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/css/normalize.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="5" selection-start="402" selection-end="402" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/crossdomain.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="38" selection-start="60" selection-end="60" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/filters.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="23" selection-start="53" selection-end="53" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/json/testWeather.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="137" column="1" selection-start="4501" selection-end="4501" vertical-scroll-proportion="-85.625">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/partials/one-day-weather.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="23" selection-start="1254" selection-end="1254" vertical-scroll-proportion="-15.625">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/js/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="49" selection-start="1038" selection-end="1038" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/partials/current-weather.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="10" selection-start="441" selection-end="441" vertical-scroll-proportion="-4.375">
+        <state line="137" column="1" selection-start="4501" selection-end="4501" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -574,16 +520,65 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/js/controllers.js">
+    <entry file="file://$PROJECT_DIR$/app/humans.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="68" selection-start="363" selection-end="363" vertical-scroll-proportion="0.26086956">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/partials/one-day-weather.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="31" selection-start="1327" selection-end="1327" vertical-scroll-proportion="-11.625">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="101" selection-start="959" selection-end="984" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/directives.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="25" selection-start="101" selection-end="101" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/partials/current-weather.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="4" selection-start="38" selection-end="85" vertical-scroll-proportion="-0.625">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/partials/extended-weather.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="49" selection-start="201" selection-end="201" vertical-scroll-proportion="-2.5">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/js/services.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="358" selection-end="1482" vertical-scroll-proportion="0.22269353">
+        <state line="24" column="21" selection-start="764" selection-end="764" vertical-scroll-proportion="0.2760181">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/controllers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="133" selection-start="210" selection-end="210" vertical-scroll-proportion="0.140625">
           <folding />
         </state>
       </provider>
