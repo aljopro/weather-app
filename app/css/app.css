@@ -92,13 +92,157 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+html{
+    background: linear-gradient(135deg, #a9e4f7 0%,#0fb4e7 100%) no-repeat center center fixed;
+    background: -webkit-linear-gradient(135deg, #a9e4f7 0%,#0fb4e7 100%) no-repeat center center fixed;
+    background-size: cover;
+}
+
+.container{
+    position:relative;
+    margin: 0 auto;
+    padding: 8px 0;
+    width: 320px;
+}
+.container h1{
+    margin: .25em 0;
+    text-align: center;
+    color: #FFF;
+}
+
+.location-container{
+    text-align: center;
+    color: #FFF;
+}
+.location-container nav{
+    padding-top: 5px;
+}
+.location-container a{
+    color: #FFF;
+}
+
+.current-weather{
+    padding: 0 10px;
+}
+.current-weather .weather-state{
+    position: relative;
+    height: 285px;
+    background: url(../img/icons/256/na.png) center top no-repeat ;
+    text-align: center;
+}
+.current-weather .weather-temperature-high{
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+}
+
+.current-weather .weather-temperature-low{
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+}
+
+.current-weather .weather-temperature-current{
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    display:block;
+    text-align: center;
+}
+
+.current-weather .weather-state-113{
+    background-image: url(../img/icons/256/32.png);
+}
+.current-weather .weather-state-116{
+    background-image: url(../img/icons/256/34.png);
+}
+.current-weather .weather-state-119{
+    background-image: url(../img/icons/256/28.png);
+}
+.current-weather .weather-state-122{
+    background-image: url(../img/icons/256/26.png);
+}
+.current-weather .weather-state-143,
+.current-weather .weather-state-176,
+.current-weather .weather-state-293,
+.current-weather .weather-state-296{
+    background-image: url(../img/icons/256/11.png);
+}
+.current-weather .weather-state-179,
+.current-weather .weather-state-182{
+    background-image: url(../img/icons/256/13.png);
+}
+
+.current-weather .weather-state-200,
+.current-weather .weather-state-305,
+.current-weather .weather-state-308{
+    background-image: url(../img/icons/256/0.png);
+}
+.current-weather .weather-state-299,
+.current-weather .weather-state-302,
+{
+    background-image: url(../img/icons/256/12.png);
+}
 
 
+.extended-weather ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.extended-weather .weather-day {
+    float: left;
+    width: 160px;
+    padding: 0;
+    margin: 0 0 16px 0;
+    text-align: center;
 
+}
 
+.extended-weather .weather-date{
+    font-size: 1em;
+    margin: 0;
+}
+.extended-weather .weather-description{
+    display: block;
+}
+.extended-weather .weather-state{
+    padding-top: 64px;
+    background: url(../img/icons/64/na.png) top center no-repeat ;
+}
+.extended-weather .weather-state-113{
+    background-image: url(../img/icons/64/32.png);
+}
+.extended-weather .weather-state-116{
+    background-image: url(../img/icons/64/34.png);
+}
+.extended-weather .weather-state-119{
+    background-image: url(../img/icons/64/28.png);
+}
+.extended-weather .weather-state-122{
+    background-image: url(../img/icons/64/26.png);
+}
+.extended-weather .weather-state-143,
+.extended-weather .weather-state-176,
+.extended-weather .weather-state-293,
+.extended-weather .weather-state-296{
+    background-image: url(../img/icons/64/11.png);
+}
+.extended-weather .weather-state-179,
+.extended-weather .weather-state-182{
+    background-image: url(../img/icons/64/13.png);
+}
 
-
-
+.extended-weather .weather-state-200,
+.extended-weather .weather-state-305,
+.extended-weather .weather-state-308{
+    background-image: url(../img/icons/64/0.png);
+}
+.extended-weather .weather-state-299,
+.extended-weather .weather-state-302,
+{
+    background-image: url(../img/icons/64/12.png);
+}
 
 
 

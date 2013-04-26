@@ -1,9 +1,9 @@
 <section class="current-weather">
     <h1 class="selected-location">{{location}}</h1>
-    <div class="weather-state">
+    <div class="weather-state weather-state-{{current.weatherCode}}">
         <span class="weather-description">{{current.weatherDescription}}</span>
-        <span class="weather-temperature-current">{{current.temp}}</span>
-        <span class="weather-temperature-low">{{weather.today.maxTemp}}</span>
-        <span class="weather-temperature-high">{{weather.today.minTemp}}</span>
+        <span class="weather-temperature-current">Currently<br/>{{current.temp}}°F</span>
+        <span class="weather-temperature-high">Hi: {{weather.today.minTemp}}°F</span>
+        <span class="weather-temperature-low">Lo: {{weather.today.maxTemp}}°F</span>
     </div>
 </section>

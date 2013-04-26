@@ -2,7 +2,109 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1499d06-f5cc-40d6-b0cc-e75036c09fd8" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/256/0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/64/0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/256/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/64/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/256/10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/64/10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/256/11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/64/11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/256/12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/64/12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/256/13.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/64/13.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/256/14.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/64/14.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/256/15.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/64/15.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/256/16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/64/16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/256/17.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/64/17.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/256/18.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/64/18.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/256/19.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/64/19.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/256/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/64/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/256/20.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/64/20.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/256/21.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/64/21.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/256/22.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/64/22.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/256/23.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/64/23.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/256/24.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/64/24.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/256/25.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/64/25.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/256/26.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/64/26.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/256/27.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/64/27.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/256/28.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/64/28.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/256/29.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/64/29.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/256/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/64/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/256/30.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/64/30.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/256/31.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/64/31.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/256/32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/64/32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/256/33.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/64/33.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/256/34.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/64/34.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/256/35.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/64/35.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/256/36.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/64/36.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/256/37.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/64/37.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/256/38.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/64/38.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/256/39.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/64/39.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/256/4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/64/4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/256/40.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/64/40.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/256/41.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/64/41.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/256/42.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/64/42.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/256/43.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/64/43.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/256/44.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/64/44.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/256/45.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/64/45.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/256/46.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/64/46.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/256/47.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/64/47.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/256/5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/64/5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/256/6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/64/6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/256/7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/64/7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/256/8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/64/8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/256/9.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/64/9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/256/na.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icons/64/na.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/css/app.css" afterPath="$PROJECT_DIR$/app/css/app.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/js/app.js" afterPath="$PROJECT_DIR$/app/js/app.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/js/controllers.js" afterPath="$PROJECT_DIR$/app/js/controllers.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/partials/current-weather.html" afterPath="$PROJECT_DIR$/app/partials/current-weather.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/js/directives.js" afterPath="$PROJECT_DIR$/app/js/directives.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/partials/extended-weather.html" afterPath="$PROJECT_DIR$/app/partials/extended-weather.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/index.html" afterPath="$PROJECT_DIR$/app/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/js/services.js" afterPath="$PROJECT_DIR$/app/js/services.js" />
@@ -10,13 +112,15 @@
     </list>
     <ignored path="Weather.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="a1499d06-f5cc-40d6-b0cc-e75036c09fd8" time="1366930103391" ignored="false" />
-    <file path="/index.html" changelist="a1499d06-f5cc-40d6-b0cc-e75036c09fd8" time="1366932192707" ignored="false" />
+    <file path="/Dummy.txt" changelist="a1499d06-f5cc-40d6-b0cc-e75036c09fd8" time="1366933092598" ignored="false" />
+    <file path="/index.html" changelist="a1499d06-f5cc-40d6-b0cc-e75036c09fd8" time="1367005638038" ignored="false" />
     <file path="/app.js" changelist="a1499d06-f5cc-40d6-b0cc-e75036c09fd8" time="1366852576653" ignored="false" />
-    <file path="/current-weather.html" changelist="a1499d06-f5cc-40d6-b0cc-e75036c09fd8" time="1366852035641" ignored="false" />
-    <file path="/services.js" changelist="a1499d06-f5cc-40d6-b0cc-e75036c09fd8" time="1366932696657" ignored="false" />
-    <file path="/controllers.js" changelist="a1499d06-f5cc-40d6-b0cc-e75036c09fd8" time="1366932491005" ignored="false" />
-    <file path="/extended-weather.html" changelist="a1499d06-f5cc-40d6-b0cc-e75036c09fd8" time="1366932941040" ignored="false" />
+    <file path="/current-weather.html" changelist="a1499d06-f5cc-40d6-b0cc-e75036c09fd8" time="1366945919457" ignored="false" />
+    <file path="/services.js" changelist="a1499d06-f5cc-40d6-b0cc-e75036c09fd8" time="1366947031344" ignored="false" />
+    <file path="/controllers.js" changelist="a1499d06-f5cc-40d6-b0cc-e75036c09fd8" time="1366943220122" ignored="false" />
+    <file path="/extended-weather.html" changelist="a1499d06-f5cc-40d6-b0cc-e75036c09fd8" time="1367004557568" ignored="false" />
+    <file path="/directives.js" changelist="a1499d06-f5cc-40d6-b0cc-e75036c09fd8" time="1366943713207" ignored="false" />
+    <file path="/app.css" changelist="a1499d06-f5cc-40d6-b0cc-e75036c09fd8" time="1367005138911" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,49 +139,31 @@
     <favorites_list name="Weather" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
+    <splitter split-orientation="horizontal" split-proportion="0.4722222">
       <split-first>
         <leaf>
           <file leaf-file-name="extended-weather.html" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/app/partials/extended-weather.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="4" column="49" selection-start="201" selection-end="201" vertical-scroll-proportion="-2.5">
+                <state line="6" column="76" selection-start="357" selection-end="357" vertical-scroll-proportion="-3.75">
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="directives.js" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/app/js/directives.js">
+          <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/app/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="6" column="25" selection-start="101" selection-end="101" vertical-scroll-proportion="0.0">
+                <state line="9" column="86" selection-start="598" selection-end="598" vertical-scroll-proportion="0.16431925">
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="controllers.js" pinned="false" current="true" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/app/js/controllers.js">
+          <file leaf-file-name="current-weather.html" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/partials/current-weather.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="6" column="133" selection-start="210" selection-end="210" vertical-scroll-proportion="0.140625">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="testWeather.json" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/app/json/testWeather.json">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="137" column="1" selection-start="4501" selection-end="4501" vertical-scroll-proportion="0.0">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="humans.txt" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/app/humans.txt">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+                <state line="6" column="77" selection-start="489" selection-end="489" vertical-scroll-proportion="-3.75">
                   <folding />
                 </state>
               </provider>
@@ -90,34 +176,25 @@
           <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/app/js/app.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="10" column="101" selection-start="959" selection-end="984" vertical-scroll-proportion="0.0">
+                <state line="9" column="56" selection-start="798" selection-end="803" vertical-scroll-proportion="0.0">
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/app/index.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="26" column="31" selection-start="1327" selection-end="1327" vertical-scroll-proportion="-11.625">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="current-weather.html" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/app/partials/current-weather.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="1" column="4" selection-start="38" selection-end="85" vertical-scroll-proportion="-0.625">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="services.js" pinned="false" current="false" current-in-tab="true">
+          <file leaf-file-name="services.js" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/app/js/services.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="24" column="21" selection-start="764" selection-end="764" vertical-scroll-proportion="0.2760181">
+                <state line="46" column="13" selection-start="1416" selection-end="1416" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="app.css" pinned="false" current="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/app/css/app.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="226" column="27" selection-start="4880" selection-end="4880" vertical-scroll-proportion="0.61538464">
                   <folding />
                 </state>
               </provider>
@@ -149,15 +226,16 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/app/js/directives.js" />
         <option value="$PROJECT_DIR$/app/js/filters.js" />
-        <option value="$PROJECT_DIR$/app/partials/current-weather.html" />
         <option value="$PROJECT_DIR$/app/json/testWeather.json" />
         <option value="$PROJECT_DIR$/app/js/app.js" />
-        <option value="$PROJECT_DIR$/app/index.html" />
-        <option value="$PROJECT_DIR$/app/js/services.js" />
-        <option value="$PROJECT_DIR$/app/partials/extended-weather.html" />
+        <option value="$PROJECT_DIR$/app/js/directives.js" />
         <option value="$PROJECT_DIR$/app/js/controllers.js" />
+        <option value="$PROJECT_DIR$/app/js/services.js" />
+        <option value="$PROJECT_DIR$/app/partials/current-weather.html" />
+        <option value="$PROJECT_DIR$/app/partials/extended-weather.html" />
+        <option value="$PROJECT_DIR$/app/css/app.css" />
+        <option value="$PROJECT_DIR$/app/index.html" />
       </list>
     </option>
   </component>
@@ -299,6 +377,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Weather" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Weather" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -314,7 +410,12 @@
     <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/img/icons" />
+      <recent name="$PROJECT_DIR$/app/img" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/img/icons/256" />
       <recent name="$PROJECT_DIR$/app" />
       <recent name="$PROJECT_DIR$/js/vendor" />
     </key>
@@ -381,17 +482,22 @@
       <created>1366864126820</created>
       <updated>1366864126820</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added extended weather view">
+      <created>1366933096226</created>
+      <updated>1366933096226</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.328125" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24986821" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19809069" sideWeight="0.6707317" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19809069" sideWeight="0.671875" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32999474" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -401,7 +507,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -449,7 +554,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="add test json so I don't use all my api hits." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added extended weather view" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -466,18 +571,14 @@
     <MESSAGE value="restructure content to be more &quot;angular&quot;" />
     <MESSAGE value="Successful &quot;angular&quot;ation of a project" />
     <MESSAGE value="add test json so I don't use all my api hits." />
+    <MESSAGE value="Added extended weather view" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/json/testWeather.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="137" column="1" selection-start="4501" selection-end="4501" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/humans.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -487,7 +588,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/css/normalize.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="5" selection-start="402" selection-end="402" vertical-scroll-proportion="0.0" />
+        <state line="18" column="5" selection-start="402" selection-end="402" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/crossdomain.xml">
@@ -534,51 +637,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="31" selection-start="1327" selection-end="1327" vertical-scroll-proportion="-11.625">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/js/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="101" selection-start="959" selection-end="984" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/js/directives.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="25" selection-start="101" selection-end="101" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/partials/current-weather.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="4" selection-start="38" selection-end="85" vertical-scroll-proportion="-0.625">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/partials/extended-weather.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="49" selection-start="201" selection-end="201" vertical-scroll-proportion="-2.5">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/js/services.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="21" selection-start="764" selection-end="764" vertical-scroll-proportion="0.2760181">
+        <state line="11" column="38" selection-start="232" selection-end="232" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/js/controllers.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="133" selection-start="210" selection-end="210" vertical-scroll-proportion="0.140625">
+        <state line="15" column="50" selection-start="568" selection-end="568" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="56" selection-start="798" selection-end="803" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/services.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="13" selection-start="1416" selection-end="1416" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/partials/current-weather.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="77" selection-start="489" selection-end="489" vertical-scroll-proportion="-3.75">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/partials/extended-weather.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="76" selection-start="357" selection-end="357" vertical-scroll-proportion="-3.75">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/css/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="226" column="27" selection-start="4880" selection-end="4880" vertical-scroll-proportion="0.61538464">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="86" selection-start="598" selection-end="598" vertical-scroll-proportion="0.16431925">
           <folding />
         </state>
       </provider>

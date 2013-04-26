@@ -7,17 +7,35 @@
 // In this case it is a simple value service.
 
 var module = angular.module('Weather.services', ['ngResource']);
+module.factory('BroadcastService', function($rootScope) {
+
+    return {
+        message: '',
+        prepForBroadcast: function (msg) {
+            this.message = msg;
+            this.broadcastItem();
+        },
+        broadcastItem: function () {
+            $rootScope.$broadcast('handleBroadcast');
+        }
+    };
+
+});
+
 module.factory('WeatherService', function($resource){
-    return $resource('json/testWeather.json', {}, {
-        get: {method:'GET', params:{location: '75081'}}
+    return $resource('http://api.worldweatheronline.com/free/v1/weather.ashx', {}, {
+        get: {method:'JSONP', params:{q: '75081', format: 'json', num_of_days: 5, includeLocation: "yes", key: "cssfbjkh42unnucm6y4wxwpn", callback: "JSON_CALLBACK" }}
     });
 });
 module.factory('WeatherDataTransformService',['WeatherService', function(WeatherService){
     return function(params, successFunction){
+
         WeatherService.get(params, function(wData){
             var data, currentWeather, weather, result = {};
 
             data = wData.data;
+
+
             if(typeof data === 'undefined' || data == null){
                 return null;
             }
@@ -26,6 +44,9 @@ module.factory('WeatherDataTransformService',['WeatherService', function(Weather
                 weatherDescription: data.current_condition[0].weatherDesc[0].value,
                 temp: data.current_condition[0].temp_F
             };
+            jQuery.extend(currentWeather, data.current_condition[0]);
+
+
 
             weather = data.weather;
 
@@ -35,10 +56,6 @@ module.factory('WeatherDataTransformService',['WeatherService', function(Weather
                 weather[i].minTemp = weather[i].tempMinF;
                 weather[i].weatherDescription = weather[i].weatherDesc[0].value;
             }
-            /*jQuery.each(weather, function(w){
-                w.maxTemp = w.tempMaxF;
-                w.minTemp = w.tempMinF;
-            });*/
 
             weather.today = weather[0];
 
