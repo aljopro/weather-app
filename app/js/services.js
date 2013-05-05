@@ -64,7 +64,7 @@ module.factory('WeatherDataTransformService',['WeatherService', function(Weather
             result.weather = weather;
 
             result.weatherData = wData.data;
-            console.log(result.weatherData);
+            //console.log(result.weatherData);
 
             successFunction(result);
 

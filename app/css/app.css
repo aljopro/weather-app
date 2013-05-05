@@ -93,6 +93,7 @@ textarea {
    Author's custom styles
    ========================================================================== */
 html{
+    background: #0fb4e7;
     background: linear-gradient(135deg, #a9e4f7 0%,#0fb4e7 100%) no-repeat center center fixed;
     background: -webkit-linear-gradient(135deg, #a9e4f7 0%,#0fb4e7 100%) no-repeat center center fixed;
     background-size: cover;
@@ -103,12 +104,17 @@ html{
     margin: 0 auto;
     padding: 8px 0;
     width: 320px;
+    overflow: hidden;
 }
 .container h1{
     margin: .25em 0;
     text-align: center;
     color: #FFF;
 }
+.view{
+    overflow: hidden;
+}
+
 
 .location-container{
     text-align: center;
@@ -192,8 +198,8 @@ html{
 }
 .extended-weather .weather-day {
     float: left;
-    width: 160px;
-    padding: 0;
+    width: 150px;
+    padding: 0 5px;
     margin: 0 0 16px 0;
     text-align: center;
 
@@ -244,7 +250,10 @@ html{
     background-image: url(../img/icons/64/12.png);
 }
 
-
+.main-footer{
+    padding-top: 8px;
+    font-size: .5em;
+}
 
 
 
